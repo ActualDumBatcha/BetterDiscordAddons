@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://cdn.discordapp.com/attachments/888326870989410304/1095291126774247495/Screen_Shot_2022-08-15_at_8.31.06_pm.png);	/* general background image				*/
+	--background:					url(https://cdn.discordapp.com/attachments/888326870989410304/1354869825473609920/after-the-final-season-part-3-part-1-ends-will-we-see-on-v0-a4xrlmdihbha1.png?ex=67e6dc5a&is=67e58ada&hm=b95c96dfebdc16f01778434ac0d4676d8bbed5670b4601004b7326a05ea784f4&);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
